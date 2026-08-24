@@ -6,23 +6,23 @@
 
 * 🌱 Passionate **Learner** | **Programmer**
 
-* 👨🏻‍💻 I specialize in designing, developing, and deploying enterprise-grade applications, microservices, distributed systems, and cloud-native solutions on cloud infrastructure.
+* 👨🏻‍💻 Specializing in designing, developing, and deploying enterprise-grade applications, microservices, distributed systems, and cloud-native solutions.
 
-* 🔭 I also enjoy building proofs of concept on emerging technologies and integrating them into existing enterprise systems.
+* 🔭 Enjoy building proofs of concept with emerging technologies and integrating them into existing enterprise systems.
 
-* 👨🏻‍🎓 I completed my M.E. in Computer Engineering and am OCP, OCA, CED, CSD, RHCE, and AWS-DA certified.
+* 👨🏻‍🎓 M.E. in Computer Engineering | OCP, OCA, CED, CSD, RHCE, and AWS-DA certified.
 
-* 🔗 My repositories contain production-style microservices projects and implementations of modern backend, cloud, and cutting-edge technologies. They focus on building secure, scalable, resilient, high-performance, reactive, non-blocking, and cloud-native backend systems. Each repository includes practical documentation, step-by-step project setup and service execution guides, API testing examples, project overviews, architecture overviews, technology stack details, deployment instructions, and screenshots.
+* 🔗 Repositories showcase production-style microservices and implementations of modern backend, cloud, and emerging technologies, focusing on secure, scalable, resilient, high-performance, reactive, non-blocking, and cloud-native systems. Each project includes practical documentation covering architecture, technology stack, setup, service execution, API testing, deployment, and screenshots.
 
-* 📌 Currently seeking Technical Lead / Senior Backend Engineer / Solution Architect opportunities. My expertise includes Java + Spring Microservices, Java + AWS Cloud, Cloud-Native Architecture, Generative AI, Web3, Python (FastAPI), TypeScript (NestJS), and JavaScript (ExpressJS), with end-to-end experience in solution design, development, deployment, and modernization of enterprise systems. Available for immediate joining. View my technical skills <a href="http://www.sirajchaudhary.com/#skills">here</a>.
+* 📌 Open to new opportunities. Expertise includes Java, Spring/Quarkus/Micronaut Microservices, REST/SOAP/gRPC/GraphQL APIs, SQL/NoSQL, AWS Cloud (30+ Services), Kafka, Docker/Kubernetes, Linux, Angular, Cloud-Native Architecture, Generative AI, Web3, Python (FastAPI), TypeScript (NestJS), and JavaScript (ExpressJS), with end-to-end experience in solution design, development, deployment, and modernization. Available for immediate joining. View my <a href="http://www.sirajchaudhary.com/#skills">technical skills</a>.
 
-* 🤝 Ask me about anything — I’m always happy to help.
+* 🤝 Ask me about anything — always happy to help.
 
 * 📧 Reach me at [mr.sirajchaudhary@yahoo.com](mailto:mr.sirajchaudhary@yahoo.com) | 📞 +91 9766870798
 
 <br>
 
-## GitHub Analytics
+## Insights
 
 <br>
 
@@ -44,11 +44,18 @@
 
 <br><br>
 
-## Let’s Connect
+## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sirajchaudhary/"><img alt="LinkedIn" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-  <a href="http://www.sirajchaudhary.com"><img alt="Portfolio" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
+  <a href="https://www.linkedin.com/in/sirajchaudhary/">
+    <img alt="LinkedIn" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
+  </a>
+  <a href="mailto:mr.sirajchaudhary@yahoo.com">
+    <img alt="Email" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/>
+  </a>
+  <a href="tel:+919766870798">
+    <img alt="Mobile" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/phone.png"/>
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=SirajChaudhary&label=Views&color=brightgreen&style=flat-square" alt="GitHub profile views"/>
