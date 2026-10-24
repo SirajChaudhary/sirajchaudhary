@@ -14,7 +14,7 @@
 
 * 🔗 Repositories showcase production-style microservices and implementations of modern backend, cloud, and emerging technologies, focusing on secure, scalable, resilient, high-performance, reactive, non-blocking, and cloud-native systems. Each project includes practical documentation covering architecture, technology stack, setup, service execution, API testing, deployment, and screenshots.
 
-* 📌 Open to new opportunities. Expertise includes Java, Spring/Quarkus/Micronaut Microservices, REST/SOAP/gRPC/GraphQL APIs, SQL/NoSQL, AWS Cloud (30+ Services), Kafka, Docker/Kubernetes, Linux, Angular, Cloud-Native Architecture, Generative AI, Web3, Python (FastAPI), TypeScript (NestJS), and JavaScript (ExpressJS), with end-to-end experience in solution design, development, deployment, and modernization. Available for immediate joining. View my <a href="http://www.sirajchaudhary.com/#skills">technical skills</a>.
+* 📌 Open to new opportunities. Expertise includes Java, Spring/Quarkus/Micronaut Microservices, REST/SOAP/gRPC/GraphQL APIs, SQL/NoSQL, AWS Cloud (30+ Services), Kafka, Docker/Kubernetes, Linux, Angular, Cloud-Native Architecture, Generative AI, Web3, Python (FastAPI), TypeScript (NestJS), and JavaScript (ExpressJS), with end-to-end experience in solution design, development, deployment, and modernization. Available for immediate joining. <!-- View my <a href="http://www.sirajchaudhary.com/#skills">technical skills</a>. -->
 
 * 🤝 Ask me about anything — always happy to help.
 
@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirajChaudhary&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
-
+<!--
 <br>
 
 <p align="center">
@@ -41,8 +41,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SirajChaudhary&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<br><br>
+-->
+<br>
 
 ## Connect
 
