@@ -16,7 +16,7 @@
 
 * 📌 Open to new opportunities. Expertise includes Java, Spring/Quarkus/Micronaut Microservices, REST/SOAP/gRPC/GraphQL APIs, SQL/NoSQL, AWS Cloud (30+ Services), Kafka, Docker/Kubernetes, Linux, Angular, Cloud-Native Architecture, Generative AI, Web3, Python (FastAPI), TypeScript (NestJS), and JavaScript (ExpressJS), with end-to-end experience in solution design, development, deployment, and modernization. Available for immediate joining. <!-- View my <a href="http://www.sirajchaudhary.com/#skills">technical skills</a>. -->
 
-* 🤝 Ask me about anything — always happy to help.
+* 🤝 Ask me about anything, always happy to help.
 
 * 📧 Reach me at [mr.sirajchaudhary@yahoo.com](mailto:mr.sirajchaudhary@yahoo.com) | 📞 +91 9766870798
 
